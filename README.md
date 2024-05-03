@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://github.com/benja-romero/benja-romero/blob/main/QA.jpg">
+</p>
+
 <h1 align="center"> Hola! 👋, soy Benjamin</h1>
 
 <p align="center">
